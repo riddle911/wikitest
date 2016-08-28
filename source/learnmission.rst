@@ -9,7 +9,8 @@ mission by manually driving around recording the desired waypoints.
 
 .. tip::
 
-   This is the easiest way to create a mission on Rover. Alternatively
+ 2016年8月28日23:36测试
+ This is the easiest way to create a mission on Rover. Alternatively
    you can :ref:`plan a mission using Mission Planner <common-planning-a-mission-with-waypoints-and-events>` or some
    other GCS.
 
