@@ -12,7 +12,7 @@ Contents:
    :maxdepth: 2
 
    hello
-   learnmissionon
+   learnmission
 Indices and tables
 ==================
 
